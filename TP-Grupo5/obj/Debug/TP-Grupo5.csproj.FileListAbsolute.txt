@@ -1,0 +1,172 @@
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\obj\Debug\TP-Grupo5.csproj.AssemblyReference.cache
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\obj\Debug\TP_Grupo5.Properties.Resources.resources
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\obj\Debug\TP-Grupo5.csproj.GenerateResource.cache
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\obj\Debug\TP-Grupo5.csproj.CoreCompileInputs.cache
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\TP-Grupo5.exe.config
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\TP-Grupo5.exe
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\TP-Grupo5.pdb
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\obj\Debug\TP_Grupo5.GUILayer.frmABMBarrio.resources
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\obj\Debug\TP_Grupo5.GUILayer.frmABMCliente.resources
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\obj\Debug\TP_Grupo5.GUILayer.frmABMContacto.resources
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\obj\Debug\TP_Grupo5.GUILayer.frmABMProyecto.resources
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\obj\Debug\TP_Grupo5.GUILayer.frmConsultarBarrio.resources
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\obj\Debug\TP_Grupo5.frmConsultaCliente.resources
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\obj\Debug\TP_Grupo5.GUILayer.frmConsultarContacto.resources
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\obj\Debug\TP_Grupo5.GUILayer.frmLogin.resources
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\obj\Debug\TP_Grupo5.GUILayer.frmPrincipal.resources
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\obj\Debug\TP_Grupo5.GUILayer.frmTransaccionFactura.resources
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\obj\Debug\TP-Grupo5.exe
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\obj\Debug\TP-Grupo5.pdb
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\EnvDTE.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\stdole.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\Microsoft.MSXML.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\obj\Debug\RdlCompile.cache
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\obj\Debug\RdlCompile.compiled
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\obj\Debug\TP_Grupo5.GUILayer.Reportes.frmReporteFactura.resources
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\obj\Debug\TP_Grupo5.GUILayer.Reportes.frmReporteDetalleCantidad.resources
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\obj\Debug\TP-Grupo5.csproj.CopyComplete
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\obj\Debug\TP_Grupo5.GUILayer.Reportes.frmReporteDetalleFactura.resources
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\obj\Debug\TP_Grupo5.GUILayer.frmConsultarFacturas.resources
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\obj\Debug\TP_Grupo5.GUILayer.frmConsultarProyecto.resources
+D:\Usuarios\Jonatan\Documents\Facultad 2021\PAV1\TrabajosPracticos\Temporal\TP-Grupo5\obj\Debug\TP_Grupo5.GUILayer.frmPresentacion.resources
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\TP-Grupo5.exe.config
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\TP-Grupo5.exe
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\TP-Grupo5.pdb
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\EnvDTE.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\stdole.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\Microsoft.MSXML.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\obj\Debug\TP-Grupo5.csproj.AssemblyReference.cache
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\obj\Debug\TP_Grupo5.GUILayer.frmABMBarrio.resources
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\obj\Debug\TP_Grupo5.GUILayer.frmABMCliente.resources
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\obj\Debug\TP_Grupo5.GUILayer.frmABMContacto.resources
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\obj\Debug\TP_Grupo5.GUILayer.frmABMProyecto.resources
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\obj\Debug\TP_Grupo5.GUILayer.frmConsultarBarrio.resources
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\obj\Debug\TP_Grupo5.frmConsultaCliente.resources
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\obj\Debug\TP_Grupo5.GUILayer.frmConsultarContacto.resources
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\obj\Debug\TP_Grupo5.GUILayer.frmConsultarFacturas.resources
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\obj\Debug\TP_Grupo5.GUILayer.frmLogin.resources
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\obj\Debug\TP_Grupo5.GUILayer.frmPresentacion.resources
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\obj\Debug\TP_Grupo5.GUILayer.frmPrincipal.resources
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\obj\Debug\TP_Grupo5.GUILayer.frmConsultarProyecto.resources
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\obj\Debug\TP_Grupo5.GUILayer.frmTransaccionFactura.resources
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\obj\Debug\TP_Grupo5.GUILayer.Reportes.frmReporteDetalleCantidad.resources
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\obj\Debug\TP_Grupo5.GUILayer.Reportes.frmReporteDetalleFactura.resources
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\obj\Debug\TP_Grupo5.GUILayer.Reportes.frmReporteFactura.resources
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\obj\Debug\TP_Grupo5.Properties.Resources.resources
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\obj\Debug\TP-Grupo5.csproj.GenerateResource.cache
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\obj\Debug\RdlCompile.cache
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\obj\Debug\RdlCompile.compiled
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\obj\Debug\TP-Grupo5.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\obj\Debug\TP-Grupo5.csproj.CopyComplete
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\obj\Debug\TP-Grupo5.exe
+C:\Users\santi\Desktop\TP-Grupo5\TP-Grupo5\obj\Debug\TP-Grupo5.pdb
